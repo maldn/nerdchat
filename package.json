@@ -1,0 +1,15 @@
+{
+  "name": "coffeenodegame",
+  "description": "testing",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "3.1",
+    "consolidate": "~0.8.0",
+    "swig": "~0.13.5",
+    "coffee-script": "~1.6.2",
+    "requirejs": "~2.1.5",
+    "zappa": "~0.3.3",
+    "zappajs-partials": "0.0.7"
+  }
+}
